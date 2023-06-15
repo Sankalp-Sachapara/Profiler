@@ -1,0 +1,2 @@
+exports.DEFAULT_PROFILE = process.env.DEFAULT_AVTAR;
+exports.TEST_NUMBERS = ['509876543'];

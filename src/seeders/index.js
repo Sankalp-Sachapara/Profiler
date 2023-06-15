@@ -1,0 +1,9 @@
+require('./skillSeed')();
+require('./interestSeed')();
+require('./languageSeed')();
+require('./industryTypeSeed')();
+require('./questionSeed')();
+require('./suggestionSeed')();
+require('./deviceTypeSeed')();
+require('./socialCategorySeed')();
+require('./bugTypeSeed')();
